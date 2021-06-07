@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="https://image.freepik.com/free-vector/qa-tester-developmental-kit-analyzing-binary-code-close-inspection-coding-checking-open-script-website-administration-reaffirming-quality-vector-isolated-concept-metaphor-illustration_335657-4306.jpg">
+<img align="right" width="300" height="300" src="https://image.freepik.com/free-vector/qa-tester-developmental-kit-analyzing-binary-code-close-inspection-coding-checking-open-script-website-administration-reaffirming-quality-vector-isolated-concept-metaphor-illustration_335657-4306.jpg">
 
 ### Hi there, I'm Rayza and this is my Github Page! 👋
 
