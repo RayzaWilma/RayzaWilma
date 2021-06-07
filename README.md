@@ -15,7 +15,7 @@
     - ⚛️ React Native for academic work
 - 📍 Languages:
     - **Portuguese:** Native speaker, I am Brazilian.
-    - **English:** technical, with good writing, and reading and listening.
+    - **English:** technical, with good writing, reading and listening.
 
 
 ---
