@@ -7,12 +7,12 @@
  ## ◽ More about me:
 
 - 👩‍💻 I’m student of course Systems Analysis and Development
-- 💻 I’m currently working at [Farmácias Independente](https://farmaciasindependente.com.br/#/) as an **IT Analyst**
+- 💻 I’m currently working at [Dataside](https://www.dataside.com.br/) as a **Data Engineer**
 - 💜 I really enjoy studying and working with **`data, ETL, SQL, T-SQL`**
 - 📚 I'm currently studying:
     - 🐍 Python for data analysis 
     - 📊 Business Intelligence
-    - ⚛️ React Native for academic work
+    - ⚡ ADF | Databricks 
 - 📍 Languages:
     - **Portuguese:** Native speaker, I am Brazilian.
     - **English:** technical, with good writing, reading and listening.
