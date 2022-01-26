@@ -6,7 +6,7 @@
 ---
  ## ◽ More about me:
 
-- 👩‍💻 I’m student of course Systems Analysis and Development
+- 👩‍💻 Graduated in Systems Analysis and Development
 - 💻 I’m currently working at [Dataside](https://www.dataside.com.br/) as a **Data Engineer**
 - 💜 I really enjoy studying and working with **`data, ETL, SQL, T-SQL`**
 - 📚 I'm currently studying:
