@@ -12,7 +12,7 @@
 - 📚 I'm currently studying:
     - 🐍 Python for data analysis 
     - 📊 Business Intelligence
-    - ⚡ ADF | Databricks 
+    - ⚡ Synapse Analytics | Databricks 
 - 📍 Languages:
     - **Portuguese:** Native speaker, I am Brazilian.
     - **English:** technical, with good writing, reading and listening.
