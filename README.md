@@ -6,13 +6,16 @@
 ---
  ## ◽ More about me:
 
+- 👩‍💻 Postgraduate student in Data Architecture
 - 👩‍💻 Graduated in Systems Analysis and Development
 - 💻 I’m currently working at [Bradesco] as a **Data Engineer**
-- 💜 I really enjoy studying and working with **`data, ETL, SQL, T-SQL`**
-- 📚 I'm currently studying:
+- 💜 I really enjoy studying and working with **`data!`**
+- 📚 I'm always studying about:
+    - ⚡ Databricks
+    - 🤖 Artificial Intelligence
+    - ☁️ Microsoft Azure
     - 🐍 Python for data analysis and artificial intelligence
     - 📊 Business Intelligence
-    - ⚡ Databricks 
 - 📍 Languages:
     - **Portuguese:** Native speaker, I am Brazilian.
     - **English:** technical, with good writing, reading and listening.
